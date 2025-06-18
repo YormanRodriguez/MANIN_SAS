@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 
-const codigo = ["col-1434", "col-3211", "col-1221", "col-5678", "col-9876"];
+const codigo = ["manin-1234", "manin-2345", "manin-3456", "manin-4567", "manin-5678", "manin-6789", "manin-7890", "manin-8901", "manin-9012", "manin-0123", "manin-1235"];
 
 const CustomWheel = () => {
   const navigate = useNavigate();
