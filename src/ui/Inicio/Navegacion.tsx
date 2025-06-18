@@ -5,7 +5,7 @@ export default function Navegacion() {
         <img className="size-20" src="./icono.png" alt="" />
         <h1 className="text-4xl font-bold">Manin S.A.S</h1>
       </div>
-      <h2 className="text-2xl cursive text-gray-800">"Calidad . Excelencia y precios incomparables"</h2>
+      <h2 className="text-2xl cursive text-gray-800">"Calidad, excelencia y precios incomparables"</h2>
     </nav>
   );
 }
